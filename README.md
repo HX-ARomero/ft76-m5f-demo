@@ -1,4 +1,4 @@
-# PartTime 34 - Frontend AI Driven
+# FullTime 76 - Frontend AI Driven
 
 ## Notas de Clases
 
