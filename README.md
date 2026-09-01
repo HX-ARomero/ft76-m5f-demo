@@ -3,6 +3,7 @@
 ## Notas de Clases
 
 - [00 - Tailwind](./readmes/00-tailwind/00-tailwind.md)
+- [01 - Arquitectura & Contexto](./readmes/01-architecture/01-architecture.md)
 
 ## Conceptos Importantes
 
