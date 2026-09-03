@@ -5,6 +5,7 @@
 - [00 - Tailwind](./readmes/00-tailwind/00-tailwind.md)
 - [01 - Arquitectura & Contexto](./readmes/01-architecture/01-architecture.md)
 - [02 - Diseño de datos en Firestore](./readmes/02-firestore/02-firestore.md)
+- [03 - Props avanzadas & Compnentes reutilizables](./readmes/03-components/03-components.md)
 
 ## Conceptos Importantes
 
