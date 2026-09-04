@@ -1,0 +1,22 @@
+# Products Context
+
+[⬅️ Volver al README](../../README.md)
+
+## 🧩 Flujo de datos y eventos en el manejo de productos
+
+<div style="text-align: center;">
+  <img src="./assets/products_context.jpg" style="width: 60%;" alt="Ciclo de vida del software">
+</div>
+
+## 📌 Resumen:
+
+Componente Padre / Contenedor → Tiene la lógica, el estado y los datos. Es quien “manda” la información.
+Componente Hijo / Presentacional → Se enfoca en cómo se ve. Solo recibe datos y los muestra.
+Props → La forma normal de pasar datos (nombre, precio, funciones, etc.).
+Children → El contenido que pones entre las etiquetas del componente (<Card>…aquí va el children…</Card>).
+
+Esta separación hace el código más limpio, reutilizable y fácil de mantener.
+
+---
+
+[⬅️ Volver al README](../../README.md)

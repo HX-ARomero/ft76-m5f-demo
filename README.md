@@ -6,6 +6,9 @@
 - [01 - Arquitectura & Contexto](./readmes/01-architecture/01-architecture.md)
 - [02 - Diseño de datos en Firestore](./readmes/02-firestore/02-firestore.md)
 - [03 - Props avanzadas & Compnentes reutilizables](./readmes/03-components/03-components.md)
+- 04 - Catálogo de Productos & Filtrado
+    - [Seeder de Productos](./readmes/04-catalogo/04-seeder.md)
+    - [Product Context](./readmes/04-catalogo/04-catalogo)
 
 ## Conceptos Importantes
 
