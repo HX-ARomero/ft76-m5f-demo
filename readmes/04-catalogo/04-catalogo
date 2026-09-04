@@ -10,12 +10,13 @@
 
 ## 📌 Resumen:
 
-Componente Padre / Contenedor → Tiene la lógica, el estado y los datos. Es quien “manda” la información.
-Componente Hijo / Presentacional → Se enfoca en cómo se ve. Solo recibe datos y los muestra.
-Props → La forma normal de pasar datos (nombre, precio, funciones, etc.).
-Children → El contenido que pones entre las etiquetas del componente (<Card>…aquí va el children…</Card>).
+1. Firestore → Fuente de los productos
+2. Servicio → Única forma de acceder a Firestore (filtros y ordenamiento)
+3. Contexto de Productos → Guarda el estado (products, loading, isEmpty, error) y expone los métodos para pedir datos
+4. UI (inputs) → El usuario elige filtros/orden y llama a los métodos del contexto
+5. UI (lista) → Muestra los productos del contexto o los estados de carga/vacío/error
 
-Esta separación hace el código más limpio, reutilizable y fácil de mantener.
+Todo fluye de forma clara y separada de responsabilidades.
 
 ---
 
