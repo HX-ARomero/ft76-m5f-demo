@@ -9,6 +9,7 @@
 - 04 - Catálogo de Productos & Filtrado
     - [Seeder de Productos](./readmes/04-catalogo/04-seeder.md)
     - [Product Context](./readmes/04-catalogo/04-catalogo)
+- [05 - Reducers en React](./readmes/05-reducer/05-reducer.md)
 
 ## Conceptos Importantes
 
