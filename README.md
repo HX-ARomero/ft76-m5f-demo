@@ -11,6 +11,7 @@
     - [Product Context](./readmes/04-catalogo/04-catalogo)
 - [05 - Reducers en React](./readmes/05-reducer/05-reducer.md)
 - [06 - Autenticación con Firebase y Roles](./readmes/06-auth/06-auth.md)
+- [07 - Panel de Admin & AWS S3](./readmes/07-admin_panel/07-admin_panel.md)
 
 ## Conceptos Importantes
 
