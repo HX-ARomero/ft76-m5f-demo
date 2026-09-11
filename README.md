@@ -15,6 +15,10 @@
 - 08 - Checkout & Orders
     - [useState, Context & Reducer](./readmes/08-checkout/08-context_reducer.md)
     - [Firestore Rules](./readmes/08-checkout/08-firestore_rules.md)
+- 09 - Testing & Deployment
+    - [Ciclo de vida del Software](./readmes/09-testing/09-ciclo-software.md)
+    - [Testing](./readmes/09-testing/09-testing.md)
+    - [Deployment](./readmes/09-testing/09-deployment.md)
 
 ## Conceptos Importantes
 
