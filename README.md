@@ -21,6 +21,9 @@
     - [Testing](./readmes/09-testing/09-testing.md)
     - [Deployment](./readmes/09-testing/09-deployment.md)
 
+- 10 - REPASO
+    - [Repaso I](./readmes/10-repaso_I/10-repaso.md)
+
 ## Conceptos Importantes
 
 - [Truthy & Falsy](./readmes/00-kick_off/trythy_&_falsy.md)
