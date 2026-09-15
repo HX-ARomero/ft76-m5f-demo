@@ -23,7 +23,8 @@
 
 - 10 - REPASO
     - [Repaso I](./readmes/10-repaso/10-repaso.md)
-    - [Repaso II](./readmes/10-repaso/11-repaso)
+    - [Repaso II](./readmes/10-repaso/11-repaso.md)
+    - [Repaso III](./readmes/10-repaso/12-repaso.md)
 
 ## Conceptos Importantes
 
