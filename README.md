@@ -22,7 +22,8 @@
     - [Deployment](./readmes/09-testing/09-deployment.md)
 
 - 10 - REPASO
-    - [Repaso I](./readmes/10-repaso_I/10-repaso.md)
+    - [Repaso I](./readmes/10-repaso/10-repaso.md)
+    - [Repaso II](./readmes/10-repaso/11-repaso)
 
 ## Conceptos Importantes
 
