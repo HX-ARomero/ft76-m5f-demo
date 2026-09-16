@@ -133,3 +133,52 @@ Definir:
 
 Preguntas:
 - ¿Qué información guardarías en la review y cuál consultarías desde el usuario/producto en lugar de duplicarla?
+
+### 🔥 3. "Comprar nuevamente"
+
+**Nueva funcionalidad:**  
+
+- En el historial de órdenes, el usuario tiene un botón **"Comprar nuevamente"** que agrega al carrito los productos de una orden anterior.
+
+Determinar:
+- ¿De dónde obtenemos los productos?
+- ¿Qué información necesitamos de la orden?
+- ¿Usamos el reducer existente?
+- ¿Qué ocurre si un producto ya está en el carrito?
+- ¿Qué ocurre si un producto ya no existe?
+- ¿Qué ocurre si ahora tiene menos stock?
+- ¿Qué pasa si cambió el precio?
+- ¿Dónde hacemos esas validaciones?
+
+### 🟡 4. "Solo productos disponibles" 📦
+
+**Nueva funcionalidad:**  
+- El catálogo incorpora un filtro "Solo disponibles".
+
+Definir:
+- ¿Qué significa "disponible"?
+- ¿Dónde se guarda el filtro?
+- ¿Se modifica el array original?
+- ¿Se filtra en frontend o en Firestore?
+- ¿Cómo se combina con búsqueda y categoría?
+- ¿Qué ocurre cuando cambia el stock?
+
+### 🔴 10. Cupones de descuento 🎟️
+
+**Nueva funcionalidad:**  
+- En el checkout, el usuario puede ingresar un código de descuento.
+
+Por ejemplo:
+
+```
+HENRY10 → 10% de descuento
+```
+
+Definir:
+- ¿Dónde se valida el cupón?
+- ¿Dónde se almacena?
+- ¿Cómo calculamos el descuento?
+- ¿El descuento forma parte del estado del carrito?
+- ¿Se guarda en la orden?
+- ¿Podemos confiar en el descuento calculado por el frontend?
+- ¿Qué debería validar Firestore?
